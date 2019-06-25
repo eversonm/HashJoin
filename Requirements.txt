@@ -1,0 +1,10 @@
+1. SQL SERVER EXPRESS 14
+2. Python3 (pyodbc, re)
+3. Database TPC_H
+
+Baixar SQL Server Express 14 e se possível, SQL Server Management Studio
+Baixar Python3 e as bibliotecas usadas, via cmd ou terminal:
+	pip install pyodbc
+	pip install re
+
+Usar o banco utilizado para efetuar benchmark: TPC_H
